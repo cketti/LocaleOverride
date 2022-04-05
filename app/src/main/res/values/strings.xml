@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocaleOverride</string>
+    <string name="language">English</string>
+    <string name="toggle_language">Toggle language</string>
+</resources>
